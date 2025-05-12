@@ -89,10 +89,11 @@ BudgetTrackerApp/
 ├── screenshots/           # Figma-based UI design references
 ├── README.md              # You're reading it!
 
-🎥 Demo Video
-Ensure your demonstration includes:
-link:
+##Demo Video
 
+youtube link: https://youtu.be/Z6eU78hAav0
+
+canva link: https://www.canva.com/design/DAGnOugsKEE/SHzyLr-Yh3gOSrh3XabMDw/edit?utm_content=DAGnOugsKEE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 A clear walk-through of each feature.
 
 A voice-over explaining what’s being shown.
