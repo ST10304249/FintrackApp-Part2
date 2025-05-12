@@ -7,10 +7,10 @@ The **Budget Tracker App** is a fully offline Android application built with Kot
 ## github link
 https://github.com/ST10304249/FintrackApp-Part2.git
 
-##Demo video
+## Demo video
 Youtube link : https://youtu.be/Z6eU78hAav0
 
-##Figma link
+## Figma link
 https://www.figma.com/design/jeO75R66yExelcO1XlgEqv/FinTrack-OPSC?node-id=0-1&t=tMRSTvH7dXcwesMk-1
 
 ## ✅ Features
